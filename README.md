@@ -28,7 +28,7 @@ MedQuAD
 ```bash
 git clone https://github.com/USERNAME/medical-chatbot-bert.git
 
-cd medical-chatbot-bert
+cd medical-chatbot-bert-fine-tuning
 
 python -m venv venv
 
