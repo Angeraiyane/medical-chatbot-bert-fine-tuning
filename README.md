@@ -52,7 +52,7 @@ Run chatbot
 ```bash
 streamlit run app/app.py
 ```
-if that doen'st work, try : 
+if that doesn't work, try : 
 
 ```bash
 Python -m streamlit run app.py
