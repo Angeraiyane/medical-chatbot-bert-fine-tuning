@@ -42,9 +42,18 @@ Generate embeddings
 ```bash
 python src/embeddings.py
 ```
+Run the retrievla script which will generate the FAISS index
 
+```bash
+python src/retrieval.py
+```
 Run chatbot
 
 ```bash
 streamlit run app/app.py
+```
+if that doen'st work, try : 
+
+```bash
+Python -m streamlit run app.py
 ```
